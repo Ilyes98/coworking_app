@@ -1,9 +1,9 @@
 <h1 align="center">Coworking app</h1>
 
 <p align="center">
-    <img src="https://urlz.fr/gJzB" width="600px" />
-        <img src="https://urlz.fr/gJzI" width="600px" />
-    <img src="https://urlz.fr/gJzL" width="600px" />
+    <img src="https://urlz.fr/gJzB" width="700px" />
+        <img src="https://urlz.fr/gJzI" width="700px" />
+    <img src="https://urlz.fr/gJzL" width="700px" />
 </p>
 
 <p align="center">
