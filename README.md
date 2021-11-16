@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="https://urlz.fr/gJzB" width="900px" />
-        <img src="https://urlz.fr/gJzI" width="900px" />
+        <img src="https://urlz.fr/gNV6" width="900px" />
     <img src="https://urlz.fr/gJzL" width="900px" />
 </p>
 
